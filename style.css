@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #F48484;
+}
+.board{
+    height: 500px;
+    width:500px;
+    background-color: lightblue;
+    margin: auto;
+    border: 2px solid lightblue;
+    padding-top: 12px;
+    padding-bottom: 2px;
+}
+.board>img{
+    height: 95px;
+    width: 95px;
+}
+h1{
+    color:lightblue;
+    font-family: poppins,sans-serif;
+}
+h2{
+    margin-top: 30px;
+    color:lightblue;
+    font-family: poppins,sans-serif;
+
+}
